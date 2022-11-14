@@ -143,7 +143,6 @@ public class CheckOutPage extends BaseClass {
 	
 	public String verifyQuantityBoxValue() throws Throwable {
 	    String quantityBoxValue = quantityBox.getAttribute("value");
-	    System.out.println(quantityBoxValue);
 		return quantityBoxValue;
 	}
 	public CheckOutPage clickOnUpdateShoppingCart() throws Throwable {

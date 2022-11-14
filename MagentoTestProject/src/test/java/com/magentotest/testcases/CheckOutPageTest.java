@@ -37,7 +37,7 @@ public class CheckOutPageTest extends BaseClass {
 	
 	@AfterClass(groups = {"Sanity"})
 	public void tearDown() {
-//		getDriver().quit();
+		getDriver().quit();
 	}
 	
 	@Test(groups = "Sanity",priority = 0)
@@ -74,12 +74,11 @@ public class CheckOutPageTest extends BaseClass {
 	public void verifyQuantityUpdate() throws Throwable {
 		Log.startTestCase("verifyQuantityUpdate");
 		String expectedQty=checkOutPage.updateQuantity(prop.getProperty("updateQuantity"));
-		System.out.println(expectedQty);
 		checkOutPage.clickOnUpdateShoppingCart();
 		Thread.sleep(3000);
 		String actualQty=checkOutPage.verifyQuantityBoxValue();
 		Assert.assertEquals(actualQty, expectedQty);
-		System.out.println("Product quantity is updated successfully");
+		Log.info("Product quantity is updated successfully");
 		Log.endTestCase("verifyQuantityUpdate");
 	
 	}

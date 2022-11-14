@@ -6,13 +6,17 @@
   </listeners>
   <test thread-count="5" name="Test_All(failed)">
     <parameter name="browser" value="Chrome"/>
+    <groups>
+      <run>
+        <include name="Sanity"/>
+      </run>
+    </groups>
     <classes>
       <class name="com.magentotest.testcases.CheckOutPageTest">
         <methods>
           <include name="verifyUpdatedCartTotal"/>
           <include name="afterSuite"/>
           <include name="loadConfig"/>
-          <include name="verifyQuantityUpdate"/>
           <include name="tearDown"/>
           <include name="verifyCartTotal"/>
           <include name="setup"/>
