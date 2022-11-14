@@ -1,0 +1,1011 @@
+2022-11-10 23:30:12 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-10 23:30:13 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-10 23:41:23 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-10 23:43:00 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-10 23:58:16 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-10 23:58:17 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 00:03:47 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-11 00:03:48 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 00:06:08 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-11 00:06:46 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 00:23:30 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-11 00:23:31 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 00:23:35 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-11 00:23:35 INFO  Log:29 - user is going to click on SignIn
+2022-11-11 00:23:37 INFO  Log:29 - Enter Username and Password
+2022-11-11 00:23:42 INFO  Log:29 - Verifying if user is able to login
+2022-11-11 00:28:47 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-11 00:28:48 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 00:28:52 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-11 00:28:52 INFO  Log:29 - user is going to click on SignIn
+2022-11-11 00:28:54 INFO  Log:29 - Enter Username and Password
+2022-11-11 00:28:59 INFO  Log:29 - Verifying if user is able to login
+2022-11-11 00:28:59 INFO  Log:29 - Login is Sucess
+2022-11-11 00:28:59 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-11 16:24:20 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-11 16:24:21 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 16:24:26 INFO  Log:18 - =====================================loginTest1 TEST START=========================================
+2022-11-11 16:24:26 INFO  Log:29 - user is going search product
+2022-11-11 16:24:33 INFO  Log:29 - Verifying if user is able to search
+2022-11-11 16:24:33 INFO  Log:29 - Search is Sucess
+2022-11-11 16:24:33 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-11 16:24:38 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-11 16:24:38 INFO  Log:29 - user is going to click on SignIn
+2022-11-11 16:24:39 INFO  Log:29 - Enter Username and Password
+2022-11-11 16:24:44 INFO  Log:29 - Verifying if user is able to login
+2022-11-11 16:24:44 INFO  Log:29 - Login is Sucess
+2022-11-11 16:24:44 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-11 16:32:34 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-11 16:32:34 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 16:32:39 INFO  Log:18 - =====================================loginTest1 TEST START=========================================
+2022-11-11 16:32:39 INFO  Log:29 - user is going search product
+2022-11-11 16:32:44 INFO  Log:29 - Verifying if user is able to search
+2022-11-11 16:32:54 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-11 16:32:54 INFO  Log:29 - user is going to click on SignIn
+2022-11-11 16:32:56 INFO  Log:29 - Enter Username and Password
+2022-11-11 16:33:01 INFO  Log:29 - Verifying if user is able to login
+2022-11-11 16:33:01 INFO  Log:29 - Login is Sucess
+2022-11-11 16:33:01 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-11 16:34:32 INFO  Log:18 - =====================================loginTest1 TEST START=========================================
+2022-11-11 16:34:33 INFO  Log:29 - user is going search product
+2022-11-11 16:34:37 INFO  Log:29 - Verifying if user is able to search
+2022-11-11 16:34:47 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-11 16:34:47 INFO  Log:29 - user is going to click on SignIn
+2022-11-11 16:34:49 INFO  Log:29 - Enter Username and Password
+2022-11-11 16:34:56 INFO  Log:29 - Verifying if user is able to login
+2022-11-11 16:34:56 INFO  Log:29 - Login is Sucess
+2022-11-11 16:34:56 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-11 16:50:56 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-11 16:50:56 INFO  Log:29 - user is going to click on SignIn
+2022-11-11 16:50:58 INFO  Log:29 - Enter Username and Password
+2022-11-11 16:51:04 INFO  Log:29 - Verifying if user is able to login
+2022-11-11 16:51:04 INFO  Log:29 - Login is Sucess
+2022-11-11 16:51:04 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-11 16:51:04 INFO  Log:18 - =====================================loginTest1 TEST START=========================================
+2022-11-11 16:51:04 INFO  Log:29 - user is going search product
+2022-11-11 16:51:08 INFO  Log:29 - Verifying if user is able to search
+2022-11-11 16:57:36 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-11 16:57:37 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 16:57:42 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-11 16:57:42 INFO  Log:29 - user is going to click on SignIn
+2022-11-11 16:57:44 INFO  Log:29 - Enter Username and Password
+2022-11-11 16:57:49 INFO  Log:29 - Verifying if user is able to login
+2022-11-11 16:57:49 INFO  Log:29 - Login is Sucess
+2022-11-11 16:57:49 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-11 16:57:49 INFO  Log:18 - =====================================loginTest1 TEST START=========================================
+2022-11-11 16:57:49 INFO  Log:29 - user is going search product
+2022-11-11 16:57:52 INFO  Log:29 - Verifying if user is able to search
+2022-11-11 17:03:50 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-11 17:03:51 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 17:03:57 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-11 17:03:57 INFO  Log:29 - user is going to click on SignIn
+2022-11-11 17:03:58 INFO  Log:29 - Enter Username and Password
+2022-11-11 17:04:03 INFO  Log:29 - Verifying if user is able to login
+2022-11-11 17:04:03 INFO  Log:29 - Login is Sucess
+2022-11-11 17:04:03 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-11 17:04:03 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-11 17:04:03 INFO  Log:29 - user is going search product
+2022-11-11 17:04:07 INFO  Log:29 - Verifying if user is able to search
+2022-11-11 17:10:10 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-11 17:10:11 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 17:10:15 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-11 17:10:15 INFO  Log:29 - user is going to click on SignIn
+2022-11-11 17:10:16 INFO  Log:29 - Enter Username and Password
+2022-11-11 17:10:22 INFO  Log:29 - Verifying if user is able to login
+2022-11-11 17:10:22 INFO  Log:29 - Login is Sucess
+2022-11-11 17:10:22 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-11 17:10:22 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-11 17:10:22 INFO  Log:29 - user is going search product
+2022-11-11 17:10:28 INFO  Log:29 - Verifying if user is able to search
+2022-11-11 17:11:59 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-11 17:11:59 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 17:12:04 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-11 17:12:04 INFO  Log:29 - user is going to click on SignIn
+2022-11-11 17:12:06 INFO  Log:29 - Enter Username and Password
+2022-11-11 17:12:10 INFO  Log:29 - Verifying if user is able to login
+2022-11-11 17:12:10 INFO  Log:29 - Login is Sucess
+2022-11-11 17:12:10 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-11 17:12:11 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-11 17:12:11 INFO  Log:29 - user is going search product
+2022-11-11 17:12:21 INFO  Log:29 - Verifying if user is able to search
+2022-11-11 17:12:22 INFO  Log:29 - Search is Sucess
+2022-11-11 17:12:22 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-11 19:18:08 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-11 19:18:08 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 19:18:13 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-11 19:18:13 INFO  Log:29 - user is going to click on SignIn
+2022-11-11 19:18:14 INFO  Log:29 - Enter Username and Password
+2022-11-11 19:18:19 INFO  Log:29 - Verifying if user is able to login
+2022-11-11 19:18:19 INFO  Log:29 - Login is Sucess
+2022-11-11 19:18:19 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-11 19:18:19 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-11 19:18:19 INFO  Log:29 - user is going search product
+2022-11-11 19:18:30 INFO  Log:29 - Verifying if user is able to search
+2022-11-11 19:18:31 INFO  Log:29 - Search is Sucess
+2022-11-11 19:18:31 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-11 19:18:35 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-11 19:18:47 INFO  Log:29 - Verifying if searched product is available
+2022-11-11 19:18:47 INFO  Log:29 - Search is Sucess
+2022-11-11 19:18:47 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-11 19:39:41 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-11 19:39:42 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 19:39:46 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-11 19:39:46 INFO  Log:29 - user is going to click on SignIn
+2022-11-11 19:39:48 INFO  Log:29 - Enter Username and Password
+2022-11-11 19:39:53 INFO  Log:29 - Verifying if user is able to login
+2022-11-11 19:39:53 INFO  Log:29 - Login is Sucess
+2022-11-11 19:39:53 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-11 19:39:53 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-11 19:39:53 INFO  Log:29 - user is going search product
+2022-11-11 19:40:04 INFO  Log:29 - Verifying if user is able to search
+2022-11-11 19:40:04 INFO  Log:29 - Search is Sucess
+2022-11-11 19:40:04 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-11 19:40:09 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-11 19:40:20 INFO  Log:29 - Verifying if searched product is available
+2022-11-11 19:40:21 INFO  Log:29 - Search is Sucess
+2022-11-11 19:40:21 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-11 19:40:25 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-11 19:48:57 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-11 19:48:57 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 19:49:02 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-11 19:49:02 INFO  Log:29 - user is going to click on SignIn
+2022-11-11 19:49:04 INFO  Log:29 - Enter Username and Password
+2022-11-11 19:49:09 INFO  Log:29 - Verifying if user is able to login
+2022-11-11 19:49:09 INFO  Log:29 - Login is Sucess
+2022-11-11 19:49:09 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-11 19:49:09 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-11 19:49:09 INFO  Log:29 - user is going search product
+2022-11-11 19:49:20 INFO  Log:29 - Verifying if user is able to search
+2022-11-11 19:49:20 INFO  Log:29 - Search is Sucess
+2022-11-11 19:49:20 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-11 19:49:25 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-11 19:49:36 INFO  Log:29 - Verifying if searched product is available
+2022-11-11 19:49:37 INFO  Log:29 - Search is Sucess
+2022-11-11 19:49:37 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-11 19:49:42 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-11 19:55:37 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-11 19:55:38 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 19:55:43 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-11 19:55:43 INFO  Log:29 - user is going to click on SignIn
+2022-11-11 19:55:45 INFO  Log:29 - Enter Username and Password
+2022-11-11 19:55:50 INFO  Log:29 - Verifying if user is able to login
+2022-11-11 19:55:50 INFO  Log:29 - Login is Sucess
+2022-11-11 19:55:50 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-11 19:55:50 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-11 19:55:50 INFO  Log:29 - user is going search product
+2022-11-11 19:56:01 INFO  Log:29 - Verifying if user is able to search
+2022-11-11 19:56:01 INFO  Log:29 - Search is Sucess
+2022-11-11 19:56:01 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-11 19:56:07 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-11 19:56:19 INFO  Log:29 - Verifying if searched product is available
+2022-11-11 19:56:19 INFO  Log:29 - Search is Sucess
+2022-11-11 19:56:19 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-11 19:56:20 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-11 19:58:12 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-11 19:58:12 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 19:58:17 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-11 19:58:17 INFO  Log:29 - user is going to click on SignIn
+2022-11-11 19:58:18 INFO  Log:29 - Enter Username and Password
+2022-11-11 19:58:23 INFO  Log:29 - Verifying if user is able to login
+2022-11-11 19:58:23 INFO  Log:29 - Login is Sucess
+2022-11-11 19:58:23 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-11 19:58:23 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-11 19:58:23 INFO  Log:29 - user is going search product
+2022-11-11 19:58:34 INFO  Log:29 - Verifying if user is able to search
+2022-11-11 19:58:34 INFO  Log:29 - Search is Sucess
+2022-11-11 19:58:34 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-11 19:58:38 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-11 19:58:50 INFO  Log:29 - Verifying if searched product is available
+2022-11-11 19:58:51 INFO  Log:29 - Search is Sucess
+2022-11-11 19:58:51 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-11 19:58:51 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-11 19:58:54 INFO  Log:29 - Verifying if searched product is available
+2022-11-11 20:01:31 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-11 20:01:31 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 20:01:36 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-11 20:01:36 INFO  Log:29 - user is going to click on SignIn
+2022-11-11 20:01:38 INFO  Log:29 - Enter Username and Password
+2022-11-11 20:01:43 INFO  Log:29 - Verifying if user is able to login
+2022-11-11 20:01:43 INFO  Log:29 - Login is Sucess
+2022-11-11 20:01:43 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-11 20:01:43 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-11 20:01:43 INFO  Log:29 - user is going search product
+2022-11-11 20:01:54 INFO  Log:29 - Verifying if user is able to search
+2022-11-11 20:01:54 INFO  Log:29 - Search is Sucess
+2022-11-11 20:01:54 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-11 20:01:59 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-11 20:02:11 INFO  Log:29 - Verifying if searched product is available
+2022-11-11 20:02:11 INFO  Log:29 - Search is Sucess
+2022-11-11 20:02:11 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-11 20:02:16 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-11 20:03:17 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-11 20:03:17 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-11 20:03:22 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-11 20:03:22 INFO  Log:29 - user is going to click on SignIn
+2022-11-11 20:03:24 INFO  Log:29 - Enter Username and Password
+2022-11-11 20:03:29 INFO  Log:29 - Verifying if user is able to login
+2022-11-11 20:03:29 INFO  Log:29 - Login is Sucess
+2022-11-11 20:03:29 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-11 20:03:29 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-11 20:03:29 INFO  Log:29 - user is going search product
+2022-11-11 20:03:40 INFO  Log:29 - Verifying if user is able to search
+2022-11-11 20:03:40 INFO  Log:29 - Search is Sucess
+2022-11-11 20:03:40 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-11 20:03:45 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-11 20:03:58 INFO  Log:29 - Verifying if searched product is available
+2022-11-11 20:03:58 INFO  Log:29 - Search is Sucess
+2022-11-11 20:03:58 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-11 20:04:03 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-11 20:04:14 INFO  Log:29 - Verifying if searched product is available
+2022-11-12 14:03:34 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-12 14:03:34 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-12 14:03:40 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-12 14:03:40 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 14:03:41 INFO  Log:29 - Enter Username and Password
+2022-11-12 14:03:47 INFO  Log:29 - Verifying if user is able to login
+2022-11-12 14:03:47 INFO  Log:29 - Login is Sucess
+2022-11-12 14:03:47 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-12 14:03:47 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-12 14:03:47 INFO  Log:29 - user is going search product
+2022-11-12 14:03:58 INFO  Log:29 - Verifying if user is able to search
+2022-11-12 14:03:59 INFO  Log:29 - Search is Sucess
+2022-11-12 14:03:59 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-12 14:05:11 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-12 14:05:12 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-12 14:05:16 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-12 14:05:16 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 14:05:18 INFO  Log:29 - Enter Username and Password
+2022-11-12 14:05:23 INFO  Log:29 - Verifying if user is able to login
+2022-11-12 14:05:23 INFO  Log:29 - Login is Sucess
+2022-11-12 14:05:23 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-12 14:05:23 INFO  Log:18 - =====================================searchResultTest TEST START=========================================
+2022-11-12 14:05:23 INFO  Log:29 - user is going search product
+2022-11-12 14:05:34 INFO  Log:29 - Verifying if user is able to search
+2022-11-12 14:05:34 INFO  Log:29 - Search is Sucess
+2022-11-12 14:05:34 INFO  Log:22 - =====================================loginTest1 TEST END=========================================
+2022-11-12 14:18:31 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-12 14:18:31 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-12 14:18:36 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-12 14:18:36 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 14:18:38 INFO  Log:29 - Enter Username and Password
+2022-11-12 14:18:43 INFO  Log:29 - Verifying if user is able to login
+2022-11-12 14:18:43 INFO  Log:29 - Login is Sucess
+2022-11-12 14:18:43 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-12 14:18:47 INFO  Log:18 - =====================================productAvailabilityTest TEST START=========================================
+2022-11-12 14:18:47 INFO  Log:29 - user is going search product
+2022-11-12 14:19:01 INFO  Log:29 - Verifying if searched product is available
+2022-11-12 14:19:01 INFO  Log:29 - Search is Sucess
+2022-11-12 14:19:01 INFO  Log:22 - =====================================productAvailabilityTest TEST END=========================================
+2022-11-12 15:40:51 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-12 15:40:52 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-12 15:40:56 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-12 15:40:56 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 15:40:58 INFO  Log:29 - Enter Username and Password
+2022-11-12 15:41:03 INFO  Log:29 - Verifying if user is able to login
+2022-11-12 15:41:03 INFO  Log:29 - Login is Sucess
+2022-11-12 15:41:03 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-12 15:41:07 INFO  Log:18 - =====================================productAvailabilityTest TEST START=========================================
+2022-11-12 15:41:07 INFO  Log:29 - user is going search product
+2022-11-12 15:41:19 INFO  Log:29 - Verifying if searched product is available
+2022-11-12 15:41:19 INFO  Log:29 - Search is Sucess
+2022-11-12 15:41:19 INFO  Log:22 - =====================================productAvailabilityTest TEST END=========================================
+2022-11-12 15:41:27 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-12 15:44:57 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-12 15:44:58 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-12 15:45:02 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-12 15:45:02 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 15:45:04 INFO  Log:29 - Enter Username and Password
+2022-11-12 15:45:09 INFO  Log:29 - Verifying if user is able to login
+2022-11-12 15:45:09 INFO  Log:29 - Login is Sucess
+2022-11-12 15:45:09 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-12 15:45:14 INFO  Log:18 - =====================================productAvailabilityTest TEST START=========================================
+2022-11-12 15:45:14 INFO  Log:29 - user is going search product
+2022-11-12 15:45:26 INFO  Log:29 - Verifying if searched product is available
+2022-11-12 15:45:26 INFO  Log:29 - Search is Sucess
+2022-11-12 15:45:26 INFO  Log:22 - =====================================productAvailabilityTest TEST END=========================================
+2022-11-12 15:45:32 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-12 15:58:17 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-12 15:58:18 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-12 15:58:22 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-12 15:58:22 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 15:58:24 INFO  Log:29 - Enter Username and Password
+2022-11-12 15:58:30 INFO  Log:29 - Verifying if user is able to login
+2022-11-12 15:58:30 INFO  Log:29 - Login is Sucess
+2022-11-12 15:58:30 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-12 15:58:34 INFO  Log:18 - =====================================productAvailabilityTest TEST START=========================================
+2022-11-12 15:58:34 INFO  Log:29 - user is going search product
+2022-11-12 15:58:46 INFO  Log:29 - Verifying if searched product is available
+2022-11-12 15:58:46 INFO  Log:29 - Search is Sucess
+2022-11-12 15:58:46 INFO  Log:22 - =====================================productAvailabilityTest TEST END=========================================
+2022-11-12 15:58:51 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-12 15:59:10 INFO  Log:22 - =====================================addToCartTest TEST END=========================================
+2022-11-12 16:38:49 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-12 16:38:50 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-12 16:38:55 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-12 16:38:55 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 16:38:57 INFO  Log:29 - Enter Username and Password
+2022-11-12 16:39:02 INFO  Log:29 - Verifying if user is able to login
+2022-11-12 16:39:02 INFO  Log:29 - Login is Sucess
+2022-11-12 16:39:02 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-12 16:39:07 INFO  Log:18 - =====================================productAvailabilityTest TEST START=========================================
+2022-11-12 16:39:07 INFO  Log:29 - user is going search product
+2022-11-12 16:39:19 INFO  Log:29 - Verifying if searched product is available
+2022-11-12 16:39:19 INFO  Log:29 - Search is Sucess
+2022-11-12 16:39:19 INFO  Log:22 - =====================================productAvailabilityTest TEST END=========================================
+2022-11-12 16:39:24 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-12 16:39:42 INFO  Log:22 - =====================================addToCartTest TEST END=========================================
+2022-11-12 16:41:01 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-12 16:41:02 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-12 16:41:07 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-12 16:41:07 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 16:41:09 INFO  Log:29 - Enter Username and Password
+2022-11-12 16:41:14 INFO  Log:29 - Verifying if user is able to login
+2022-11-12 16:41:14 INFO  Log:29 - Login is Sucess
+2022-11-12 16:41:14 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-12 16:41:18 INFO  Log:18 - =====================================productAvailabilityTest TEST START=========================================
+2022-11-12 16:41:18 INFO  Log:29 - user is going search product
+2022-11-12 16:41:30 INFO  Log:29 - Verifying if searched product is available
+2022-11-12 16:41:30 INFO  Log:29 - Search is Sucess
+2022-11-12 16:41:30 INFO  Log:22 - =====================================productAvailabilityTest TEST END=========================================
+2022-11-12 16:41:35 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-12 16:41:54 INFO  Log:22 - =====================================addToCartTest TEST END=========================================
+2022-11-12 16:41:58 INFO  Log:18 - =====================================verifyTotalPrice TEST START=========================================
+2022-11-12 16:50:11 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-12 16:50:12 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-12 16:50:17 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-12 16:50:17 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 16:50:19 INFO  Log:29 - Enter Username and Password
+2022-11-12 16:50:24 INFO  Log:29 - Verifying if user is able to login
+2022-11-12 16:50:24 INFO  Log:29 - Login is Sucess
+2022-11-12 16:50:24 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-12 16:50:28 INFO  Log:18 - =====================================productAvailabilityTest TEST START=========================================
+2022-11-12 16:50:28 INFO  Log:29 - user is going search product
+2022-11-12 16:50:40 INFO  Log:29 - Verifying if searched product is available
+2022-11-12 16:50:40 INFO  Log:29 - Search is Sucess
+2022-11-12 16:50:40 INFO  Log:22 - =====================================productAvailabilityTest TEST END=========================================
+2022-11-12 16:50:45 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-12 16:51:05 INFO  Log:22 - =====================================addToCartTest TEST END=========================================
+2022-11-12 16:51:13 INFO  Log:18 - =====================================verifyTotalPrice TEST START=========================================
+2022-11-12 16:53:06 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-12 16:53:07 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-12 16:53:12 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-12 16:53:12 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 16:53:14 INFO  Log:29 - Enter Username and Password
+2022-11-12 16:53:19 INFO  Log:29 - Verifying if user is able to login
+2022-11-12 16:53:19 INFO  Log:29 - Login is Sucess
+2022-11-12 16:53:19 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-12 16:53:23 INFO  Log:18 - =====================================productAvailabilityTest TEST START=========================================
+2022-11-12 16:53:23 INFO  Log:29 - user is going search product
+2022-11-12 16:53:35 INFO  Log:29 - Verifying if searched product is available
+2022-11-12 16:53:35 INFO  Log:29 - Search is Sucess
+2022-11-12 16:53:35 INFO  Log:22 - =====================================productAvailabilityTest TEST END=========================================
+2022-11-12 16:53:40 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-12 16:53:59 INFO  Log:22 - =====================================addToCartTest TEST END=========================================
+2022-11-12 16:54:04 INFO  Log:18 - =====================================verifyTotalPrice TEST START=========================================
+2022-11-12 16:56:17 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-12 16:56:18 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-12 16:56:24 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-12 16:56:24 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 16:56:25 INFO  Log:29 - Enter Username and Password
+2022-11-12 16:56:31 INFO  Log:29 - Verifying if user is able to login
+2022-11-12 16:56:31 INFO  Log:29 - Login is Sucess
+2022-11-12 16:56:31 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-12 16:56:35 INFO  Log:18 - =====================================productAvailabilityTest TEST START=========================================
+2022-11-12 16:56:35 INFO  Log:29 - user is going search product
+2022-11-12 16:56:48 INFO  Log:29 - Verifying if searched product is available
+2022-11-12 16:56:48 INFO  Log:29 - Search is Sucess
+2022-11-12 16:56:48 INFO  Log:22 - =====================================productAvailabilityTest TEST END=========================================
+2022-11-12 16:56:55 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-12 16:57:15 INFO  Log:22 - =====================================addToCartTest TEST END=========================================
+2022-11-12 16:57:20 INFO  Log:18 - =====================================verifyTotalPrice TEST START=========================================
+2022-11-12 17:20:13 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-12 17:20:14 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-12 17:20:22 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-12 17:20:22 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 17:20:25 INFO  Log:29 - Enter Username and Password
+2022-11-12 17:20:30 INFO  Log:29 - Verifying if user is able to login
+2022-11-12 17:20:30 INFO  Log:29 - Login is Sucess
+2022-11-12 17:20:30 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-12 17:20:35 INFO  Log:18 - =====================================productAvailabilityTest TEST START=========================================
+2022-11-12 17:20:35 INFO  Log:29 - user is going search product
+2022-11-12 17:20:48 INFO  Log:29 - Verifying if searched product is available
+2022-11-12 17:21:07 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-12 17:21:42 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-12 17:21:43 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-12 17:21:47 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-12 17:21:47 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 17:21:49 INFO  Log:29 - Enter Username and Password
+2022-11-12 17:21:54 INFO  Log:29 - Verifying if user is able to login
+2022-11-12 17:21:54 INFO  Log:29 - Login is Sucess
+2022-11-12 17:21:54 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-12 17:21:58 INFO  Log:18 - =====================================productAvailabilityTest TEST START=========================================
+2022-11-12 17:21:58 INFO  Log:29 - user is going search product
+2022-11-12 17:22:10 INFO  Log:29 - Verifying if searched product is available
+2022-11-12 17:22:11 INFO  Log:29 - Search is Sucess
+2022-11-12 17:22:11 INFO  Log:22 - =====================================productAvailabilityTest TEST END=========================================
+2022-11-12 17:22:15 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-12 17:22:33 INFO  Log:22 - =====================================addToCartTest TEST END=========================================
+2022-11-12 17:22:38 INFO  Log:18 - =====================================verifyTotalPrice TEST START=========================================
+2022-11-12 17:25:26 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-12 17:25:27 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-12 17:25:31 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-12 17:25:31 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 17:25:33 INFO  Log:29 - Enter Username and Password
+2022-11-12 17:25:38 INFO  Log:29 - Verifying if user is able to login
+2022-11-12 17:25:38 INFO  Log:29 - Login is Sucess
+2022-11-12 17:25:38 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-12 17:25:44 INFO  Log:18 - =====================================productAvailabilityTest TEST START=========================================
+2022-11-12 17:25:44 INFO  Log:29 - user is going search product
+2022-11-12 17:25:56 INFO  Log:29 - Verifying if searched product is available
+2022-11-12 17:25:56 INFO  Log:29 - Search is Sucess
+2022-11-12 17:25:56 INFO  Log:22 - =====================================productAvailabilityTest TEST END=========================================
+2022-11-12 17:26:01 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-12 17:26:20 INFO  Log:22 - =====================================addToCartTest TEST END=========================================
+2022-11-12 17:26:26 INFO  Log:18 - =====================================verifyTotalPrice TEST START=========================================
+2022-11-12 17:34:38 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-12 17:34:39 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-12 17:34:48 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-12 17:34:48 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 17:34:50 INFO  Log:29 - Enter Username and Password
+2022-11-12 17:34:56 INFO  Log:29 - Verifying if user is able to login
+2022-11-12 17:34:56 INFO  Log:29 - Login is Sucess
+2022-11-12 17:34:56 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-12 17:35:01 INFO  Log:18 - =====================================productAvailabilityTest TEST START=========================================
+2022-11-12 17:35:01 INFO  Log:29 - user is going search product
+2022-11-12 17:35:14 INFO  Log:29 - Verifying if searched product is available
+2022-11-12 17:35:14 INFO  Log:29 - Search is Sucess
+2022-11-12 17:35:14 INFO  Log:22 - =====================================productAvailabilityTest TEST END=========================================
+2022-11-12 17:35:24 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-12 17:35:44 INFO  Log:22 - =====================================addToCartTest TEST END=========================================
+2022-11-12 17:35:50 INFO  Log:18 - =====================================verifyTotalPrice TEST START=========================================
+2022-11-12 17:56:51 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-12 17:56:52 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-12 17:56:57 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-12 17:56:57 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 17:56:59 INFO  Log:29 - Enter Username and Password
+2022-11-12 17:57:06 INFO  Log:29 - Verifying if user is able to login
+2022-11-12 17:57:06 INFO  Log:29 - Login is Sucess
+2022-11-12 17:57:06 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-12 17:57:13 INFO  Log:18 - =====================================productAvailabilityTest TEST START=========================================
+2022-11-12 17:57:13 INFO  Log:29 - user is going search product
+2022-11-12 17:57:25 INFO  Log:29 - Verifying if searched product is available
+2022-11-12 17:57:26 INFO  Log:29 - Search is Sucess
+2022-11-12 17:57:26 INFO  Log:22 - =====================================productAvailabilityTest TEST END=========================================
+2022-11-12 17:57:33 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-12 17:57:52 INFO  Log:22 - =====================================addToCartTest TEST END=========================================
+2022-11-12 17:57:58 INFO  Log:18 - =====================================verifyTotalPrice TEST START=========================================
+2022-11-12 18:03:31 INFO  Log:18 - =====================================verifyTotalPrice TEST START=========================================
+2022-11-12 18:14:13 INFO  Log:18 - =====================================verifyTotalPrice TEST START=========================================
+2022-11-12 18:20:51 INFO  Log:18 - =====================================verifyTotalPrice TEST START=========================================
+2022-11-12 18:32:18 INFO  Log:18 - =====================================verifyTotalPrice TEST START=========================================
+2022-11-12 18:38:03 INFO  Log:18 - =====================================verifyTotalPrice TEST START=========================================
+2022-11-12 18:41:31 INFO  Log:18 - =====================================verifyTotalPrice TEST START=========================================
+2022-11-12 18:51:23 INFO  Log:18 - =====================================verifyTotalPrice TEST START=========================================
+2022-11-12 18:51:55 INFO  Log:22 - =====================================verifyTotalPrice TEST END=========================================
+2022-11-12 18:54:28 INFO  Log:18 - =====================================verifyTotalPrice TEST START=========================================
+2022-11-12 19:02:01 INFO  Log:18 - =====================================verifyCountryName TEST START=========================================
+2022-11-12 19:02:34 INFO  Log:22 - =====================================verifyCountryName TEST END=========================================
+2022-11-12 19:05:36 INFO  Log:18 - =====================================verifyCountryName TEST START=========================================
+2022-11-12 19:09:04 INFO  Log:18 - =====================================verifyCountryName TEST START=========================================
+2022-11-12 19:11:16 INFO  Log:18 - =====================================verifyCountryName TEST START=========================================
+2022-11-12 19:11:47 INFO  Log:22 - =====================================verifyCountryName TEST END=========================================
+2022-11-12 20:39:32 INFO  Log:18 - =====================================verifyCountryName TEST START=========================================
+2022-11-12 20:40:07 INFO  Log:22 - =====================================verifyCountryName TEST END=========================================
+2022-11-12 22:21:20 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-12 22:23:32 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-12 22:25:57 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-12 22:29:01 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-12 22:29:27 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-12 22:31:28 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-12 22:31:56 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-12 22:33:46 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-12 22:34:33 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-12 22:34:58 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-12 23:23:34 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-12 23:23:34 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 23:23:35 INFO  Log:29 - Enter Username and Password
+2022-11-12 23:25:45 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-12 23:25:45 INFO  Log:29 - user is going to click on SignIn
+2022-11-12 23:25:47 INFO  Log:29 - Enter Username and Password
+2022-11-12 23:26:16 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 00:06:54 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 00:06:54 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 00:06:56 INFO  Log:29 - Enter Username and Password
+2022-11-13 00:07:24 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 00:07:24 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 00:14:09 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 00:14:09 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 00:14:11 INFO  Log:29 - Enter Username and Password
+2022-11-13 00:14:45 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 00:15:27 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 00:15:27 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 00:15:29 INFO  Log:29 - Enter Username and Password
+2022-11-13 00:15:59 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 00:15:59 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 00:18:34 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 00:18:35 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 00:18:36 INFO  Log:29 - Enter Username and Password
+2022-11-13 00:19:09 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 00:19:09 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 00:23:33 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 00:23:33 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 00:23:35 INFO  Log:29 - Enter Username and Password
+2022-11-13 00:24:00 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 00:24:00 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 00:24:02 INFO  Log:29 - Enter Username and Password
+2022-11-13 00:24:30 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 00:24:31 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 00:29:56 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 00:29:56 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 00:29:57 INFO  Log:29 - Enter Username and Password
+2022-11-13 00:33:36 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 00:33:36 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 00:33:38 INFO  Log:29 - Enter Username and Password
+2022-11-13 00:34:11 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 00:35:08 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 00:35:08 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 00:35:10 INFO  Log:29 - Enter Username and Password
+2022-11-13 00:37:51 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 00:37:51 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 00:37:52 INFO  Log:29 - Enter Username and Password
+2022-11-13 00:38:22 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 00:38:22 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 00:45:27 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 00:45:27 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 00:45:29 INFO  Log:29 - Enter Username and Password
+2022-11-13 00:45:59 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 00:46:06 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 00:48:00 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 00:48:00 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 00:48:02 INFO  Log:29 - Enter Username and Password
+2022-11-13 00:48:31 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 00:48:32 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 00:48:37 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 01:14:47 INFO  Log:18 - =====================================verifyaddToCart TEST START=========================================
+2022-11-13 01:14:47 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 01:14:47 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 01:14:49 INFO  Log:29 - Enter Username and Password
+2022-11-13 01:15:26 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 01:15:33 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 01:18:38 INFO  Log:18 - =====================================verifyaddToCart TEST START=========================================
+2022-11-13 01:18:57 INFO  Log:22 - =====================================verifyaddToCart TEST END=========================================
+2022-11-13 01:18:57 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 01:18:57 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 01:18:59 INFO  Log:29 - Enter Username and Password
+2022-11-13 01:19:28 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 01:19:34 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 01:22:24 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 01:22:24 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 01:22:26 INFO  Log:29 - Enter Username and Password
+2022-11-13 01:22:56 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 01:22:56 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 01:23:02 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 01:23:02 INFO  Log:18 - =====================================verifyaddToCart TEST START=========================================
+2022-11-13 01:23:19 INFO  Log:22 - =====================================verifyaddToCart TEST END=========================================
+2022-11-13 01:24:19 INFO  Log:18 - =====================================verifyaddToCart TEST START=========================================
+2022-11-13 01:25:12 INFO  Log:18 - =====================================verifyaddToCart TEST START=========================================
+2022-11-13 01:25:31 INFO  Log:22 - =====================================verifyaddToCart TEST END=========================================
+2022-11-13 01:25:31 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 01:25:31 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 01:25:33 INFO  Log:29 - Enter Username and Password
+2022-11-13 01:28:34 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 01:28:34 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 01:28:36 INFO  Log:29 - Enter Username and Password
+2022-11-13 01:29:06 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 01:29:06 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 01:29:11 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 01:29:11 INFO  Log:18 - =====================================verifyaddToCart TEST START=========================================
+2022-11-13 01:29:28 INFO  Log:22 - =====================================verifyaddToCart TEST END=========================================
+2022-11-13 01:39:46 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 01:39:46 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 01:39:48 INFO  Log:29 - Enter Username and Password
+2022-11-13 01:40:17 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 01:40:17 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 01:40:24 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 01:40:24 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 01:40:41 INFO  Log:22 - =====================================verifyaddToCart-verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-13 01:40:41 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-13 01:44:36 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 01:44:36 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 01:44:38 INFO  Log:29 - Enter Username and Password
+2022-11-13 01:45:23 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 01:45:23 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 01:45:25 INFO  Log:29 - Enter Username and Password
+2022-11-13 01:45:55 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 01:45:55 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 01:46:01 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 01:46:01 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 01:46:19 INFO  Log:22 - =====================================verifyaddToCart-verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-13 01:46:19 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-13 01:51:09 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 01:51:09 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 01:51:11 INFO  Log:29 - Enter Username and Password
+2022-11-13 01:51:41 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 01:51:41 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 01:51:47 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 01:51:47 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 01:52:04 INFO  Log:22 - =====================================verifyaddToCart-verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-13 01:52:04 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-13 01:57:01 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 01:57:01 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 01:57:03 INFO  Log:29 - Enter Username and Password
+2022-11-13 01:57:32 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 01:57:32 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 01:57:38 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 01:57:38 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 01:57:54 INFO  Log:22 - =====================================verifyaddToCart-verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-13 01:57:54 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-13 02:00:53 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 02:00:54 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 02:00:55 INFO  Log:29 - Enter Username and Password
+2022-11-13 02:01:55 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 02:01:55 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 02:01:58 INFO  Log:29 - Enter Username and Password
+2022-11-13 02:02:28 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 02:02:28 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 02:02:35 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 02:02:35 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 02:02:52 INFO  Log:22 - =====================================verifyaddToCart-verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-13 02:02:52 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-13 02:05:03 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 02:05:03 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 02:05:05 INFO  Log:29 - Enter Username and Password
+2022-11-13 02:05:35 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 02:05:35 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 02:05:41 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 02:05:41 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 02:05:59 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-13 02:05:59 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-13 02:06:18 INFO  Log:22 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST END=========================================
+2022-11-13 14:40:56 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 14:40:56 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 14:40:59 INFO  Log:29 - Enter Username and Password
+2022-11-13 14:41:34 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 14:41:34 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 14:41:41 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 14:41:41 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 14:41:59 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-13 14:41:59 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-13 14:42:18 INFO  Log:22 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST END=========================================
+2022-11-13 14:42:18 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-13 14:46:23 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 14:46:24 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 14:46:25 INFO  Log:29 - Enter Username and Password
+2022-11-13 14:46:54 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 14:47:02 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 14:47:02 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 14:47:18 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-13 14:47:18 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-13 14:49:52 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 14:49:52 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 14:49:55 INFO  Log:29 - Enter Username and Password
+2022-11-13 14:50:23 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 14:50:23 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 14:50:30 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 14:50:30 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 14:50:47 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-13 14:50:47 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-13 14:51:05 INFO  Log:22 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST END=========================================
+2022-11-13 14:51:05 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-13 14:57:05 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 14:57:05 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 14:57:07 INFO  Log:29 - Enter Username and Password
+2022-11-13 14:59:12 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 14:59:12 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 14:59:14 INFO  Log:29 - Enter Username and Password
+2022-11-13 14:59:42 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 14:59:42 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 14:59:48 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 14:59:48 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 15:00:05 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-13 15:00:05 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-13 15:00:24 INFO  Log:22 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST END=========================================
+2022-11-13 15:00:24 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-13 15:05:07 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 15:05:07 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 15:05:09 INFO  Log:29 - Enter Username and Password
+2022-11-13 15:05:40 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 15:05:46 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 15:05:46 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 15:06:04 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-13 15:06:04 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-13 15:06:22 INFO  Log:22 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST END=========================================
+2022-11-13 15:06:22 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-13 15:10:32 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 15:10:32 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 15:10:34 INFO  Log:29 - Enter Username and Password
+2022-11-13 15:11:03 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 15:11:03 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 15:11:08 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 15:11:08 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 15:11:25 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-13 15:11:25 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-13 15:11:43 INFO  Log:22 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST END=========================================
+2022-11-13 15:11:43 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-13 15:11:47 INFO  Log:22 - =====================================verifyUpdatedCartTotal TEST END=========================================
+2022-11-13 15:14:29 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 15:14:29 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 15:14:31 INFO  Log:29 - Enter Username and Password
+2022-11-13 15:15:01 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 15:15:01 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 15:15:07 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 15:15:07 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 15:15:24 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-13 15:15:24 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-13 15:15:42 INFO  Log:22 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST END=========================================
+2022-11-13 15:15:42 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-13 15:15:46 INFO  Log:22 - =====================================verifyUpdatedCartTotal TEST END=========================================
+2022-11-13 15:17:19 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 15:17:19 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 15:17:21 INFO  Log:29 - Enter Username and Password
+2022-11-13 15:17:50 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 15:17:50 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 15:17:57 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 15:17:57 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 15:18:15 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-13 15:18:15 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-13 15:18:33 INFO  Log:22 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST END=========================================
+2022-11-13 15:18:33 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-13 15:18:38 INFO  Log:22 - =====================================verifyUpdatedCartTotal TEST END=========================================
+2022-11-13 16:04:44 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 16:04:44 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 16:04:46 INFO  Log:29 - Enter Username and Password
+2022-11-13 17:24:12 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-13 17:24:13 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-13 17:55:32 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-13 17:55:33 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-13 18:02:05 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-13 18:02:05 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 18:02:07 INFO  Log:29 - Enter Username and Password
+2022-11-13 18:02:12 INFO  Log:29 - Verifying if user is able to login
+2022-11-13 18:02:12 INFO  Log:29 - Login is Sucess
+2022-11-13 18:02:12 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-13 18:05:35 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-13 18:05:35 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 18:05:37 INFO  Log:29 - Enter Username and Password
+2022-11-13 18:05:42 INFO  Log:29 - Verifying if user is able to login
+2022-11-13 18:05:42 INFO  Log:29 - Login is Sucess
+2022-11-13 18:05:42 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-13 22:04:58 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-13 22:04:58 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 22:04:59 INFO  Log:29 - Enter Username and Password
+2022-11-13 22:05:04 INFO  Log:29 - Verifying if user is able to login
+2022-11-13 22:05:04 INFO  Log:29 - Login is Sucess
+2022-11-13 22:05:04 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-13 23:16:11 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 23:16:11 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 23:16:14 INFO  Log:29 - Enter Username and Password
+2022-11-13 23:16:39 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 23:16:39 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 23:16:58 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-13 23:18:57 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 23:18:57 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 23:18:59 INFO  Log:29 - Enter Username and Password
+2022-11-13 23:19:23 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 23:19:23 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 23:19:43 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-13 23:22:09 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 23:22:09 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 23:22:11 INFO  Log:29 - Enter Username and Password
+2022-11-13 23:22:36 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 23:22:36 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 23:22:55 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-13 23:26:23 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-13 23:26:23 INFO  Log:29 - user is going to click on SignIn
+2022-11-13 23:26:25 INFO  Log:29 - Enter Username and Password
+2022-11-13 23:26:54 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-13 23:26:54 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-13 23:27:00 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-13 23:27:00 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-13 23:27:15 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-13 23:27:15 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-13 23:27:32 INFO  Log:22 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST END=========================================
+2022-11-13 23:27:32 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-13 23:27:38 INFO  Log:22 - =====================================verifyUpdatedCartTotal TEST END=========================================
+2022-11-14 16:37:09 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-14 16:37:09 INFO  Log:29 - user is going to click on SignIn
+2022-11-14 16:37:11 INFO  Log:29 - Enter Username and Password
+2022-11-14 16:38:23 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-14 16:38:23 INFO  Log:29 - user is going to click on SignIn
+2022-11-14 16:38:24 INFO  Log:29 - Enter Username and Password
+2022-11-14 16:38:55 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-14 16:38:55 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-14 16:39:01 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-14 16:39:01 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-14 16:39:16 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-14 16:39:16 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-14 16:39:37 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-14 16:48:06 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-14 16:48:06 INFO  Log:29 - user is going to click on SignIn
+2022-11-14 16:48:09 INFO  Log:29 - Enter Username and Password
+2022-11-14 16:48:37 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-14 16:48:37 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-14 16:48:43 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-14 16:48:43 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-14 16:48:59 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-14 16:48:59 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-14 16:49:17 INFO  Log:22 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST END=========================================
+2022-11-14 16:49:17 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-14 16:49:23 INFO  Log:22 - =====================================verifyUpdatedCartTotal TEST END=========================================
+2022-11-14 17:23:40 INFO  Log:18 - =====================================verifySignInButton TEST START=========================================
+2022-11-14 17:23:40 INFO  Log:22 - =====================================verifySignInButton TEST END=========================================
+2022-11-14 17:23:45 INFO  Log:18 - =====================================loginTest TEST START=========================================
+2022-11-14 17:23:45 INFO  Log:29 - user is going to click on SignIn
+2022-11-14 17:23:47 INFO  Log:29 - Enter Username and Password
+2022-11-14 17:23:52 INFO  Log:29 - Verifying if user is able to login
+2022-11-14 17:23:52 INFO  Log:29 - Login is Sucess
+2022-11-14 17:23:52 INFO  Log:22 - =====================================loginTest TEST END=========================================
+2022-11-14 17:23:56 INFO  Log:18 - =====================================productAvailabilityTest TEST START=========================================
+2022-11-14 17:23:56 INFO  Log:29 - user is going search product
+2022-11-14 17:24:09 INFO  Log:29 - Verifying if searched product is available
+2022-11-14 17:24:09 INFO  Log:29 - Search is Sucess
+2022-11-14 17:24:09 INFO  Log:22 - =====================================productAvailabilityTest TEST END=========================================
+2022-11-14 17:24:17 INFO  Log:18 - =====================================addToCartPage TEST START=========================================
+2022-11-14 17:24:33 INFO  Log:22 - =====================================addToCartTest TEST END=========================================
+2022-11-14 17:24:38 INFO  Log:18 - =====================================verifyCountryName TEST START=========================================
+2022-11-14 17:25:10 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-14 17:25:10 INFO  Log:29 - user is going to click on SignIn
+2022-11-14 17:25:12 INFO  Log:29 - Enter Username and Password
+2022-11-14 17:25:41 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-14 17:25:41 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-14 17:25:47 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-14 17:25:47 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-14 17:26:03 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-14 17:26:03 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-14 17:26:19 INFO  Log:22 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST END=========================================
+2022-11-14 17:26:19 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-14 17:26:24 INFO  Log:22 - =====================================verifyUpdatedCartTotal TEST END=========================================
+2022-11-14 17:32:56 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-14 17:32:56 INFO  Log:29 - user is going to click on SignIn
+2022-11-14 17:32:58 INFO  Log:29 - Enter Username and Password
+2022-11-14 17:33:32 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-14 17:33:32 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-14 17:33:46 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-14 17:33:46 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-14 17:34:02 INFO  Log:22 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST END=========================================
+2022-11-14 17:34:02 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-14 17:39:15 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-14 17:39:16 INFO  Log:29 - user is going to click on SignIn
+2022-11-14 17:39:17 INFO  Log:29 - Enter Username and Password
+2022-11-14 17:39:46 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-14 17:39:46 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-14 17:39:52 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-14 17:39:52 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-14 17:40:07 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-14 17:40:07 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-14 17:40:23 INFO  Log:22 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST END=========================================
+2022-11-14 17:40:23 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-14 17:40:28 INFO  Log:22 - =====================================verifyUpdatedCartTotal TEST END=========================================
+2022-11-14 17:46:36 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-14 17:46:36 INFO  Log:29 - user is going to click on SignIn
+2022-11-14 17:46:38 INFO  Log:29 - Enter Username and Password
+2022-11-14 17:47:06 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-14 17:47:06 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-14 17:47:13 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-14 17:47:13 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-14 17:47:27 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-14 17:47:27 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-14 17:47:43 INFO  Log:22 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST END=========================================
+2022-11-14 17:47:43 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-14 17:47:49 INFO  Log:22 - =====================================verifyUpdatedCartTotal TEST END=========================================
+2022-11-14 18:06:03 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-14 18:06:03 INFO  Log:29 - user is going to click on SignIn
+2022-11-14 18:06:05 INFO  Log:29 - Enter Username and Password
+2022-11-14 18:06:35 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-14 18:06:35 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-14 18:06:41 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-14 18:06:41 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-14 18:06:57 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-14 18:06:57 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-14 18:07:12 INFO  Log:22 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST END=========================================
+2022-11-14 18:07:12 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-14 18:07:18 INFO  Log:22 - =====================================verifyUpdatedCartTotal TEST END=========================================
+2022-11-14 18:07:18 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:07:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2022-11-14 18:07:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2022-11-14 18:07:18 DEBUG cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2022-11-14 18:07:19 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2022-11-14 18:07:19 DEBUG cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2022-11-14 18:07:19 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2022-11-14 18:07:19 DEBUG cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2022-11-14 18:07:19 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2022-11-14 18:07:19 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2022-11-14 18:07:19 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2022-11-14 18:07:19 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2022-11-14 18:07:19 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2022-11-14 18:07:19 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2022-11-14 18:07:19 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-11-14 18:07:19 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-11-14 18:07:19 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-11-14 18:07:19 DEBUG cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2022-11-14 18:07:19 DEBUG cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2022-11-14 18:07:19 DEBUG cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2022-11-14 18:07:19 DEBUG cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2022-11-14 18:07:19 DEBUG cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2022-11-14 18:07:19 DEBUG cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2022-11-14 18:07:19 DEBUG cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2022-11-14 18:07:19 DEBUG cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2022-11-14 18:07:19 DEBUG cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2022-11-14 18:07:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2022-11-14 18:07:19 DEBUG cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2022-11-14 18:35:02 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-14 18:35:02 INFO  Log:29 - user is going to click on SignIn
+2022-11-14 18:35:04 INFO  Log:29 - Enter Username and Password
+2022-11-14 18:35:33 INFO  Log:22 - =====================================verifyCartTotal TEST END=========================================
+2022-11-14 18:35:33 INFO  Log:18 - =====================================verifyQuantityUpdate TEST START=========================================
+2022-11-14 18:35:39 INFO  Log:22 - =====================================verifyQuantityUpdate TEST END=========================================
+2022-11-14 18:35:39 INFO  Log:18 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST START=========================================
+2022-11-14 18:35:55 INFO  Log:22 - =====================================verifyaddToCart-Gwyn Endurance Tee Small Yellow TEST END=========================================
+2022-11-14 18:35:55 INFO  Log:18 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST START=========================================
+2022-11-14 18:36:11 INFO  Log:22 - =====================================verifyaddToCart-Quest Lumaflex™ Band TEST END=========================================
+2022-11-14 18:36:11 INFO  Log:18 - =====================================verifyUpdatedCartTotal TEST START=========================================
+2022-11-14 18:36:16 INFO  Log:22 - =====================================verifyUpdatedCartTotal TEST END=========================================
+2022-11-14 18:36:16 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:36:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2022-11-14 18:36:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2022-11-14 18:36:16 DEBUG cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2022-11-14 18:36:17 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2022-11-14 18:36:17 DEBUG cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2022-11-14 18:36:17 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2022-11-14 18:36:17 DEBUG cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2022-11-14 18:36:17 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2022-11-14 18:36:17 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2022-11-14 18:36:17 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2022-11-14 18:36:17 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2022-11-14 18:36:17 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2022-11-14 18:36:17 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2022-11-14 18:36:17 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-11-14 18:36:17 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-11-14 18:36:17 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-11-14 18:36:17 DEBUG cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2022-11-14 18:36:17 DEBUG cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2022-11-14 18:36:17 DEBUG cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2022-11-14 18:36:17 DEBUG cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2022-11-14 18:36:17 DEBUG cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2022-11-14 18:36:17 DEBUG cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2022-11-14 18:36:17 DEBUG cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2022-11-14 18:36:17 DEBUG cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2022-11-14 18:36:17 DEBUG cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2022-11-14 18:36:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2022-11-14 18:36:17 DEBUG cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2022-11-14 19:19:07 INFO  Log:18 - =====================================verifyCartTotal TEST START=========================================
+2022-11-14 19:19:07 INFO  Log:29 - user is going to click on SignIn
+2022-11-14 19:19:09 INFO  Log:29 - Enter Username and Password

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-14T18:34:55 GMT" name="Suite" finished-at="2022-11-14T18:36:16 GMT" duration-ms="80719">
+    <groups>
+      <group name="Sanity">
+        <method signature="CheckOutPageTest.addToCart()[pri:2, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" name="addToCart" class="com.magentotest.testcases.CheckOutPageTest"/>
+        <method signature="CheckOutPageTest.verifyCartTotal()[pri:0, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" name="verifyCartTotal" class="com.magentotest.testcases.CheckOutPageTest"/>
+        <method signature="CheckOutPageTest.verifyQuantityUpdate()[pri:1, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" name="verifyQuantityUpdate" class="com.magentotest.testcases.CheckOutPageTest"/>
+        <method signature="CheckOutPageTest.verifyUpdatedCartTotal()[pri:3, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" name="verifyUpdatedCartTotal" class="com.magentotest.testcases.CheckOutPageTest"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test started-at="2022-11-14T18:34:55 GMT" name="Test_All" finished-at="2022-11-14T18:36:16 GMT" duration-ms="80719">
+      <class name="com.magentotest.testcases.CheckOutPageTest">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" started-at="2022-11-14T18:34:55 GMT" name="loadConfig" finished-at="2022-11-14T18:34:55 GMT" duration-ms="704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" started-at="2022-11-14T18:34:55 GMT" name="setup" finished-at="2022-11-14T18:35:02 GMT" duration-ms="6158" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCartTotal()[pri:0, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" started-at="2022-11-14T18:35:02 GMT" name="verifyCartTotal" finished-at="2022-11-14T18:35:33 GMT" duration-ms="31707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartTotal -->
+        <test-method signature="verifyQuantityUpdate()[pri:1, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" started-at="2022-11-14T18:35:33 GMT" name="verifyQuantityUpdate" finished-at="2022-11-14T18:35:39 GMT" duration-ms="6016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyQuantityUpdate -->
+        <test-method signature="addToCart()[pri:2, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" started-at="2022-11-14T18:35:39 GMT" name="addToCart" finished-at="2022-11-14T18:36:11 GMT" duration-ms="31659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method signature="verifyUpdatedCartTotal()[pri:3, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" started-at="2022-11-14T18:36:11 GMT" name="verifyUpdatedCartTotal" finished-at="2022-11-14T18:36:16 GMT" duration-ms="5080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUpdatedCartTotal -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" started-at="2022-11-14T18:36:16 GMT" name="tearDown" finished-at="2022-11-14T18:36:16 GMT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" started-at="2022-11-14T18:36:16 GMT" name="afterSuite" finished-at="2022-11-14T18:36:17 GMT" duration-ms="1341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.magentotest.testcases.CheckOutPageTest -->
+    </test> <!-- Test_All -->
+  </suite> <!-- Suite -->
+</testng-results>
