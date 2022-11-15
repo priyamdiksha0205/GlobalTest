@@ -26,23 +26,14 @@ public class AddToCartPage extends BaseClass{
 	@FindBy(id="product-addtocart-button")
 	private WebElement AddToCart;
 	
-	//@FindBy(xpath = "//*[@id=\"product-addtocart-button\"]/span")
-	//private WebElement addToCart;
-	
 	@FindBy(id="qty")
 	private WebElement productQuantity;
 	
 	@FindBy(xpath="//div[@class=\"page messages\"]")
 	private WebElement addToCartMessag;
 	
-//	@FindBy(xpath="/html/body/div[2]/header/div[2]/div[1]/a/span[2]/span[1]")
-//	private WebElement addToCartLogo;
-	
 	@FindBy(xpath = "//a[contains(text(),\"shopping cart\")]")
 	private WebElement shoppingCart;
-	
-//	@FindBy(id="top-cart-btn-checkout")
-//	private WebElement proceedToCheckOutButton;
 	
 	@FindBy(xpath="//li[@class=\"item\"]//button[@type=\"button\"]")
 	private WebElement proceedToCheckoutBtn;
@@ -83,13 +74,6 @@ public class AddToCartPage extends BaseClass{
 		action.fluentWait(getDriver(), addToCartMessag, 10);
 		return action.isDisplayed(getDriver(), addToCartMessag);
 	}
-	
-		
-//	public OrderPage clickOnCheckOut() throws Throwable {
-//	    action.JSClick(getDriver(), addToCartLogo);
-//		action.JSClick(getDriver(), proceedToCheckOutButton);
-//		return new OrderPage();
-//	}
 	
 	public OrderPage clickOnCheckOut1() throws Throwable {
 	    action.JSClick(getDriver(), shoppingCart);

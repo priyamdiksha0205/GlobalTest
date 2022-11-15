@@ -18,11 +18,6 @@ public class CheckOutPage extends BaseClass {
 	
 	Action action= new Action();
 	
-	//@FindBy(xpath="//table[@id=\"shopping-cart-table\"]")
-	//private WebElement shoppingCartTable;
-	
-	//@FindBy(xpath="//table[@id=\\\"shopping-cart-table\\\"]")
-	//private WebElement tableCol;
 	
 	@FindBy(xpath="//tbody/tr[1]/td[@class=\"col price\"]")
 	private WebElement unitPrice;//
@@ -36,8 +31,6 @@ public class CheckOutPage extends BaseClass {
 	@FindBy(xpath="//*[@id=\"shopping-cart-table\"]/tbody[3]/tr[1]/td[2]/span/span/span")
 	private WebElement unitPrice3;//
 	
-//	@FindBy(xpath="//*[@id=\"cart-totals\"]/div/table/tbody/tr[1]/td/span")
-//	private WebElement subTotal;//
 	
 	@FindBy(xpath="//*[@id=\"cart-totals\"]/div/table/tbody/tr[4]/td/strong/span")
 	private WebElement orderTotal;//
@@ -50,9 +43,6 @@ public class CheckOutPage extends BaseClass {
 	
 	@FindBy(xpath ="//table[@class=\"data table totals\"]//tbody//tr[@class=\"totals shipping excl\"]//td[@class=\"amount\"]")
 	private WebElement shippingRate;
-	
-//	@FindBy(xpath ="//table[@class=\"data table totals\"]//tbody//tr[@class=\"totals shipping excl\"]//td[@class=\"amount\"]")
-//	private WebElement shippingRate1;
 	
 	@FindBy(xpath = "//table[@id=\"shopping-cart-table\"]//thead//tr//th[3]//following::input[1]")
 	private WebElement quantityBox;
@@ -126,14 +116,6 @@ public class CheckOutPage extends BaseClass {
 		double finalshippingRate1=Double.parseDouble(tot);
 		return finalshippingRate1/100;
 	}
-	
-	
-//	public double getShippingRate1() {
-//		String shippingRate_1=shippingRate1.getText();
-//		String tot=shippingRate_1.replaceAll("[^a-zA-Z0-9]","");
-//		double finalshippingRate_1=Double.parseDouble(tot);
-//		return finalshippingRate_1/100;
-//	}
 	
 	public String updateQuantity(String qty) throws Throwable {
 		action.type(quantityBox, qty);

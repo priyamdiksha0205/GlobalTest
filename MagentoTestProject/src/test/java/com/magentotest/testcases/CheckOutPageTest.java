@@ -41,7 +41,6 @@ public class CheckOutPageTest extends BaseClass {
 	}
 	
 	@Test(groups = "Sanity",priority = 0)
-//			,dataProvider = "getProduct", dataProviderClass = DataProviders.class)
 	public void verifyCartTotal() throws Throwable {
 		Log.startTestCase("verifyCartTotal");
 		homePage= new HomePage();
@@ -110,7 +109,6 @@ public class CheckOutPageTest extends BaseClass {
 	}
 	
 	@Test(groups = "Sanity",priority = 3)
-//	,dataProvider = "getProduct", dataProviderClass = DataProviders.class)
    public void verifyUpdatedCartTotal() throws Throwable {
        Log.startTestCase("verifyUpdatedCartTotal");
        addToCartPage.clickOnShoppingCart();

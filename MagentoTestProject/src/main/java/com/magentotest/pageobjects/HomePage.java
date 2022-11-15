@@ -37,24 +37,11 @@ public class HomePage extends BaseClass {
 		String homePageURL=action.getCurrentURL(getDriver());
 		return homePageURL;
 	}
-	
-	//public boolean validateSearchBox() throws Throwable {
-	//	return action.isDisplayed(getDriver(), searchBox);
-	//}
 
-	//public boolean validateSearchButton() throws Throwable {
-	//	return action.isDisplayed(getDriver(), searchButton);
-	//}
-	
-	//public SearchResultPage clickOnSearchButton() throws Throwable {
-	//	action.click(getDriver(), searchButton);
-	//	return new SearchResultPage();
-	//}
 	
 	public SearchResultPage searchProduct(String productName) throws Throwable {
 		action.type(searchBox, productName);
-		Thread.sleep(3000);
-//		action.scrollByVisibilityOfElement(getDriver(), searchButton);
+		Thread.sleep(3000);	
 		action.click(getDriver(), searchButton);
 		Thread.sleep(3000);
 		return new SearchResultPage();

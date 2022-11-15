@@ -17,10 +17,6 @@ public class OrderPage extends BaseClass{
 	
 	@FindBy(xpath="//div[@class=\"shipping-address-item selected-item\"]")
 	private WebElement shippingAddress;
-
-	
-//	@FindBy(xpath="//*[@id=\"shipping-method-buttons-container\"]/div/button/span")
-//	private WebElement nextButton;
 	
 	@FindBy(xpath = "//button[@class=\"action action-auth-toggle\"]")
 	private WebElement signInButton;
@@ -33,13 +29,6 @@ public class OrderPage extends BaseClass{
 	
 	@FindBy(xpath="//div[@id=\"modal-content-7\"]//button[@type=\"submit\"]")
 	private WebElement loginInButton;
-	
-	
-//	public PaymentsPage clickNextButton() throws Throwable {
-//	    action.click(getDriver(), nextButton);
-//		return new PaymentsPage();
-//	}
-	
 	
 	public String verifyCountryName() throws Throwable {
 	    String countryName = shippingAddress.getText();
