@@ -51,6 +51,7 @@ public class AddToCartPageTest extends BaseClass {
 		addToCartPage.clickOnAddToCart();
 		boolean result=addToCartPage.validateAddtoCart();
 		Assert.assertTrue(result);
+		Log.info("Product is added to cart successfully");
 		Log.endTestCase("addToCartTest");
 		
 	}

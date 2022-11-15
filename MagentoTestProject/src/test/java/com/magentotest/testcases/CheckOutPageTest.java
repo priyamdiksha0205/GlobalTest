@@ -30,17 +30,17 @@ public class CheckOutPageTest extends BaseClass {
 	private LoginPage loginPage;
 	
 	@Parameters("browser")
-	@BeforeClass(groups = {"Sanity"})
+	@BeforeClass()
 	public void setup(String browser) {
 		launchApp(browser); 
 	}
 	
-	@AfterClass(groups = {"Sanity"})
+	@AfterClass()
 	public void tearDown() {
 		getDriver().quit();
 	}
 	
-	@Test(groups = "Sanity",priority = 0)
+	@Test(priority = 0)
 	public void verifyCartTotal() throws Throwable {
 		Log.startTestCase("verifyCartTotal");
 		homePage= new HomePage();
@@ -66,10 +66,11 @@ public class CheckOutPageTest extends BaseClass {
 		Double actualPrice = unitPrice*Double.parseDouble(prop.getProperty("quantity1"))-discount+shippingRate;
 		Double totalExpectedPrice=orderTotal;
 		Assert.assertEquals(actualPrice, totalExpectedPrice);
+		Log.info("Expected Price equals actual Price");
 		Log.endTestCase("verifyCartTotal");
 	}
 	
-	@Test(groups = "Sanity",priority = 1)
+	@Test(priority = 1)
 	public void verifyQuantityUpdate() throws Throwable {
 		Log.startTestCase("verifyQuantityUpdate");
 		String expectedQty=checkOutPage.updateQuantity(prop.getProperty("updateQuantity"));
@@ -82,7 +83,7 @@ public class CheckOutPageTest extends BaseClass {
 	
 	}
 	
-	@Test(groups = "Sanity",priority = 2)
+	@Test(priority = 2)
 	public void addToCart() throws Throwable {
 		Log.startTestCase("verifyaddToCart-Gwyn Endurance Tee Small Yellow");
 		homePage= new HomePage();
@@ -95,8 +96,8 @@ public class CheckOutPageTest extends BaseClass {
 		addToCartPage.clickOnAddToCart();
 		boolean result=addToCartPage.validateAddtoCart();
 		Assert.assertTrue(result);
-		Log.endTestCase("verifyaddToCart-Gwyn Endurance Tee Small Yellow");
-		
+		Log.info("Gwyn Endurance Tee Small Yellow is added to cart successfully");
+		Log.endTestCase("verifyaddToCart-Gwyn Endurance Tee Small Yellow");		
 		Log.startTestCase("verifyaddToCart-Quest Lumaflex™ Band");
 		searchResultPage=homePage.searchProduct(prop.getProperty("product2"));
 		Thread.sleep(3000);
@@ -105,10 +106,11 @@ public class CheckOutPageTest extends BaseClass {
 		addToCartPage.clickOnAddToCart();
 		boolean result1=addToCartPage.validateAddtoCart();
 		Assert.assertTrue(result1);
+		Log.info("Cart-Quest Lumaflex™ Band is added to cart successfully");
 		Log.endTestCase("verifyaddToCart-Quest Lumaflex™ Band");
 	}
 	
-	@Test(groups = "Sanity",priority = 3)
+   @Test(priority = 3)
    public void verifyUpdatedCartTotal() throws Throwable {
        Log.startTestCase("verifyUpdatedCartTotal");
        addToCartPage.clickOnShoppingCart();
@@ -124,6 +126,7 @@ public class CheckOutPageTest extends BaseClass {
        Double actualPrice = subTotal-shippingRate;
        Double totalExpectedPrice=orderTotal;
        Assert.assertEquals(actualPrice, totalExpectedPrice);//140//116
+       Log.info("Cart Total is updated successfully");
        Log.endTestCase("verifyUpdatedCartTotal");
 }
 

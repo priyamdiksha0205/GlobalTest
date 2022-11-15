@@ -7,10 +7,8 @@ import java.io.File;
 import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.util.Date;
-import java.util.List;
 import java.util.concurrent.TimeUnit;
 import org.apache.commons.io.FileUtils;
-import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -103,13 +101,6 @@ public class Action extends BaseClass implements ActionInterface {
 		return flag;
 	}
 
-	/**
-	 * Type text at location
-	 * 
-	 * @param locatorName
-	 * @param text
-	 * @return - true/false
-	 */
 	@Override
 	public boolean type(WebElement ele, String text) {
 		boolean flag = false;
@@ -117,7 +108,6 @@ public class Action extends BaseClass implements ActionInterface {
 			flag = ele.isDisplayed();
 			ele.clear();
 			ele.sendKeys(text);
-			// logger.info("Entered text :"+text);
 			flag = true;
 		} catch (Exception e) {
 			System.out.println("Location Not found");
@@ -132,33 +122,7 @@ public class Action extends BaseClass implements ActionInterface {
 		}
 		return flag;
 	}
-
-	@Override
-	public int getColumncount(WebElement row) {
-		List<WebElement> columns = row.findElements(By.tagName("td"));
-		int a = columns.size();
-		System.out.println(columns.size());
-		for (WebElement column : columns) {
-			System.out.print(column.getText());
-			System.out.print("|");
-		}
-		return a;
-	}
 	
-	@Override
-	public int getRowCount(WebElement table) {
-		List<WebElement> rows = table.findElements(By.tagName("tr"));
-		int a = rows.size() - 1;
-		return a;
-	}
-	
-	
-	/**
-	 * Verify alert present or not
-	 * 
-	 * @return: Boolean (True: If alert preset, False: If no alert)
-	 * 
-	 */
 	@Override
 	public boolean launchUrl(WebDriver driver,String url) {
 		boolean flag = false;
@@ -188,9 +152,16 @@ public class Action extends BaseClass implements ActionInterface {
 		return text;
 	}
 	
+	@Override
+	public void scrollByVisibilityOfElement(WebDriver driver, WebElement ele) {
+		JavascriptExecutor js = (JavascriptExecutor) driver;
+		js.executeScript("arguments[0].scrollIntoView();", ele);
+
+	}
+	
 	
 	@Override
-	public void fluentWait(WebDriver driver,WebElement element, int timeOut) {
+	public void fluentWait(WebDriver driver,WebElement element) {
 	    Wait<WebDriver> wait = null;
 	    try {
 	        wait = new FluentWait<WebDriver>((WebDriver) driver)
@@ -198,7 +169,7 @@ public class Action extends BaseClass implements ActionInterface {
 	        	    .pollingEvery(Duration.ofSeconds(2))
 	        	    .ignoring(Exception.class);
 	        wait.until(ExpectedConditions.visibilityOf(element));
-	        element.click();
+//	        element.click();
 	    }catch(Exception e) {
 	    }
 	}
@@ -227,18 +198,8 @@ public class Action extends BaseClass implements ActionInterface {
 		} catch (Exception e) {
 			e.getMessage();
 		}
-		// This new path for jenkins
-		//String newImageString = "http://localhost:8082/job/MagentoTestProject/ws/MagentoTestProject/ScreenShots/" + filename + "_"
-		//		+ dateName + ".png";
-		//return newImageString;	
-		////String newImageString = "C:\\Users\\admin\\Desktop\\Diksha\\workspaces\\MagentoTestProject\\ScreenShots" + filename + "_"
-				//+ dateName + ".png";
 		return destination;
 	}
-	@Override
-	public String getCurrentTime() {
-		String currentDate = new SimpleDateFormat("yyyy-MM-dd-hhmmss").format(new Date());
-		return currentDate;
-	}
+	
 
 }

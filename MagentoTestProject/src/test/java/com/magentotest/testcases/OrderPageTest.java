@@ -3,8 +3,6 @@
  */
 package com.magentotest.testcases;
 
-import java.util.concurrent.TimeUnit;
-
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -37,7 +35,7 @@ public class OrderPageTest extends BaseClass {
 	
 	@AfterMethod(groups = {"Sanity"})
 	public void tearDown() {
-//		getDriver().quit();
+      getDriver().quit();
 	}
 	
 	@Test(groups = "Sanity")
@@ -57,9 +55,7 @@ public class OrderPageTest extends BaseClass {
 		orderPage.login(prop.getProperty("username"), prop.getProperty("password"),orderPage);
 		String expectedCountryName = prop.getProperty("countryName");
 		String shippingAddress = orderPage.verifyCountryName();
-//		System.out.println(shippingAddress);
 		boolean isUnitedKingdom = shippingAddress.contains(expectedCountryName);
-//		System.out.println(isUnitedKingdom);
 		Assert.assertTrue(isUnitedKingdom);
 		Log.info("shippingAddress contains United Kingdom");
 		Log.endTestCase("verifyCountryName");

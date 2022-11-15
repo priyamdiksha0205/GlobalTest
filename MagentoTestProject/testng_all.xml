@@ -6,19 +6,8 @@
 	</listeners>
 	<test thread-count="5" name="Test_All">
 		<parameter name="browser" value="Chrome"></parameter>
-		<groups>
-			<run>
-				<include name="Sanity"></include>
-			</run>
-		</groups>
 		<classes>
-			
-			<!--class name="com.magentotest.testcases.HomePageTest"/>
-			<class name="com.magentotest.testcases.LoginPageTest"/>
-			<class name="com.magentotest.testcases.SearchResultPageTest"/>
-			<class name="com.magentotest.testcases.AddToCartPageTest"/-->
-			<class name="com.magentotest.testcases.OrderPageTest"/>
-			<class name="com.magentotest.testcases.CheckOutPageTest"/>			
+			<class name="com.magentotest.testcases.CheckOutPageTest"/>		
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

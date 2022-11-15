@@ -38,6 +38,7 @@ public class HomePageTest extends BaseClass {
 		homePage = new HomePage();
 		boolean result = homePage.validateSignInButton();
 		Assert.assertTrue(result);
+		Log.info("Sign In Button is present on HomePage");
 		Log.endTestCase("verifySignInButton");
 	}
 	

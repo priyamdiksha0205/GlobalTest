@@ -71,7 +71,7 @@ public class AddToCartPage extends BaseClass{
 	}
 	
 	public boolean validateAddtoCart() throws Throwable {
-		action.fluentWait(getDriver(), addToCartMessag, 10);
+		action.fluentWait(getDriver(), addToCartMessag);
 		return action.isDisplayed(getDriver(), addToCartMessag);
 	}
 	

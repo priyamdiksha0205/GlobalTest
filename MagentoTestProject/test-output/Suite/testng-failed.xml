@@ -4,7 +4,7 @@
   <listeners>
     <listener class-name="com.magentotest.utility.ListenerClass"/>
   </listeners>
-  <test thread-count="5" name="Test_All(failed)">
+  <test thread-count="5" name="Sanity(failed)">
     <parameter name="browser" value="Chrome"/>
     <groups>
       <run>
@@ -22,5 +22,5 @@
         </methods>
       </class> <!-- com.magentotest.testcases.OrderPageTest -->
     </classes>
-  </test> <!-- Test_All(failed) -->
+  </test> <!-- Sanity(failed) -->
 </suite> <!-- Failed suite [Suite] -->

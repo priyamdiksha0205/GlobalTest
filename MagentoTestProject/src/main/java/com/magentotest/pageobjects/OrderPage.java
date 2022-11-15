@@ -25,10 +25,10 @@ public class OrderPage extends BaseClass{
 	private WebElement loginEmail;
 	
 	@FindBy(xpath ="//input[@id=\"login-password\"]")
-	private WebElement loginPasswod;
+	private WebElement loginPassword;
 	
-	@FindBy(xpath="//div[@id=\"modal-content-7\"]//button[@type=\"submit\"]")
-	private WebElement loginInButton;
+	@FindBy(xpath="//a[@class=\"action action-remind\"]//preceding::div[@class=\"primary\"]")
+	private WebElement loginButton;
 	
 	public String verifyCountryName() throws Throwable {
 	    String countryName = shippingAddress.getText();
@@ -36,15 +36,17 @@ public class OrderPage extends BaseClass{
 	}
 	
 	public LoginPage clickSignInButton() throws Throwable {
-		action.fluentWait(getDriver(), signInButton, 10);
+		Thread.sleep(5000);
 	    action.click(getDriver(), signInButton);
+	    Thread.sleep(2000);
         return new LoginPage();
 	}
 	
 	public OrderPage login(String email, String pwd, OrderPage orderPage) throws Throwable {
 		action.type(loginEmail, email);
-		action.type(loginPasswod, pwd);
-		action.click(getDriver(), loginInButton);
+		action.type(loginPassword, pwd);
+		action.fluentWait(getDriver(), loginButton);
+		action.click(getDriver(), loginButton);
 		Thread.sleep(2000);
 		return new OrderPage();
 	}

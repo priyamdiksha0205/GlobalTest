@@ -20,23 +20,23 @@ public class CheckOutPage extends BaseClass {
 	
 	
 	@FindBy(xpath="//tbody/tr[1]/td[@class=\"col price\"]")
-	private WebElement unitPrice;//
+	private WebElement unitPrice;
 	
 	@FindBy(xpath="//table[@id=\"shopping-cart-table\"]//thead//tr//th[2]//following::span[5]")
-	private WebElement unitPrice1; //
+	private WebElement unitPrice1;
 	
 	@FindBy(xpath="//*[@id=\"shopping-cart-table\"]/tbody[2]/tr[1]/td[2]/span/span/span")
-	private WebElement unitPrice2;//
+	private WebElement unitPrice2;
 	
 	@FindBy(xpath="//*[@id=\"shopping-cart-table\"]/tbody[3]/tr[1]/td[2]/span/span/span")
-	private WebElement unitPrice3;//
+	private WebElement unitPrice3;
 	
 	
 	@FindBy(xpath="//*[@id=\"cart-totals\"]/div/table/tbody/tr[4]/td/strong/span")
-	private WebElement orderTotal;//
+	private WebElement orderTotal;
 	
 	@FindBy(xpath ="//*[@id=\"cart-totals\"]/div/table/tbody/tr[3]/td/strong/span")
-	private WebElement orderTotal1;//
+	private WebElement orderTotal1;
 	
 	@FindBy(xpath="//table[@class=\"data table totals\"]//tbody//tr[@class=\"totals\"]//td[@class=\"amount\"]")
 	private WebElement discount;
