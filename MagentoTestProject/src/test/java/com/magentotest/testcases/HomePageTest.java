@@ -14,7 +14,7 @@ import com.magentotest.pageobjects.HomePage;
 import com.magentotest.utility.Log;
 
 /**
- * @author admin
+ * @author Diksha
  *
  */
 public class HomePageTest extends BaseClass {

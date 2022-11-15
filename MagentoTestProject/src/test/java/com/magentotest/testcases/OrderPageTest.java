@@ -3,6 +3,8 @@
  */
 package com.magentotest.testcases;
 
+import java.util.concurrent.TimeUnit;
+
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -39,7 +41,6 @@ public class OrderPageTest extends BaseClass {
 	}
 	
 	@Test(groups = "Sanity")
-			//,dataProvider = "getProduct", dataProviderClass = DataProviders.class)
 	public void verifyCountry() throws Throwable {
 		Log.startTestCase("verifyCountryName");
 		homePage= new HomePage();
@@ -49,10 +50,9 @@ public class OrderPageTest extends BaseClass {
 		addToCartPage.selectSize();
 		addToCartPage.selectColor();
 		addToCartPage.enterQuantity(prop.getProperty("quantity1"));
-		addToCartPage.clickOnAddToCart(); //
+		addToCartPage.clickOnAddToCart();
 		Thread.sleep(3000);
-		orderPage=addToCartPage.clickOnCheckOut1();//		
-		Thread.sleep(3000);
+		orderPage=addToCartPage.clickOnCheckOut1();		
 		orderPage.clickSignInButton();
 		orderPage.login(prop.getProperty("username"), prop.getProperty("password"),orderPage);
 		String expectedCountryName = prop.getProperty("countryName");
@@ -61,6 +61,7 @@ public class OrderPageTest extends BaseClass {
 		boolean isUnitedKingdom = shippingAddress.contains(expectedCountryName);
 //		System.out.println(isUnitedKingdom);
 		Assert.assertTrue(isUnitedKingdom);
+		Log.info("shippingAddress contains United Kingdom");
 		Log.endTestCase("verifyCountryName");
 	}
 

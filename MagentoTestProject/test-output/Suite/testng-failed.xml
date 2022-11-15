@@ -12,16 +12,15 @@
       </run>
     </groups>
     <classes>
-      <class name="com.magentotest.testcases.CheckOutPageTest">
+      <class name="com.magentotest.testcases.OrderPageTest">
         <methods>
-          <include name="verifyUpdatedCartTotal"/>
           <include name="afterSuite"/>
           <include name="loadConfig"/>
-          <include name="tearDown"/>
-          <include name="verifyCartTotal"/>
+          <include name="verifyCountry"/>
           <include name="setup"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- com.magentotest.testcases.CheckOutPageTest -->
+      </class> <!-- com.magentotest.testcases.OrderPageTest -->
     </classes>
   </test> <!-- Test_All(failed) -->
 </suite> <!-- Failed suite [Suite] -->

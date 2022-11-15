@@ -22,7 +22,7 @@ public class OrderPage extends BaseClass{
 //	@FindBy(xpath="//*[@id=\"shipping-method-buttons-container\"]/div/button/span")
 //	private WebElement nextButton;
 	
-	@FindBy(xpath = "//button[contains(@class,\"action login primary\")]")
+	@FindBy(xpath = "//button[@class=\"action action-auth-toggle\"]")
 	private WebElement signInButton;
 	
 	@FindBy(xpath ="//input[@id=\"login-email\"]")
@@ -47,6 +47,7 @@ public class OrderPage extends BaseClass{
 	}
 	
 	public LoginPage clickSignInButton() throws Throwable {
+		action.fluentWait(getDriver(), signInButton, 10);
 	    action.click(getDriver(), signInButton);
         return new LoginPage();
 	}

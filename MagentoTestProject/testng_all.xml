@@ -16,9 +16,9 @@
 			<!--class name="com.magentotest.testcases.HomePageTest"/>
 			<class name="com.magentotest.testcases.LoginPageTest"/>
 			<class name="com.magentotest.testcases.SearchResultPageTest"/>
-			<class name="com.magentotest.testcases.AddToCartPageTest"/>
-			<class name="com.magentotest.testcases.OrderPageTest"-->
-			<class name="com.magentotest.testcases.CheckOutPageTest"/>			
+			<class name="com.magentotest.testcases.AddToCartPageTest"/-->
+			<class name="com.magentotest.testcases.OrderPageTest"/>
+			<!--class name="com.magentotest.testcases.CheckOutPageTest"/-->			
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

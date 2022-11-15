@@ -35,7 +35,6 @@ public class LoginPageTest extends BaseClass {
 		getDriver().quit();
 	}
 	@Test(groups = {"Sanity"})
-//	,dataProvider = "credentials", dataProviderClass = DataProviders.class)
 	public void loginTest() throws Throwable {
 		Log.startTestCase("loginTest");
 		homePage= new HomePage();
@@ -44,10 +43,8 @@ public class LoginPageTest extends BaseClass {
 		Log.info("Enter Username and Password");
 	    
 		homePage=loginPage.login(prop.getProperty("username"), prop.getProperty("password"));
-		//homePage=loginPage.login(uname,pswd);
 	    String actualURL=homePage.getCurrURL();
 	    String expectedURL=prop.getProperty("url");
-//	    		"http://automationpractice.com/index.php?controller=my-account";
 	    Log.info("Verifying if user is able to login");
 	    Assert.assertEquals(actualURL, expectedURL);
 	    Log.info("Login is Sucess");

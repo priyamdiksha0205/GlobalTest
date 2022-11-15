@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="2" failed="2" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-14T23:21:54 GMT" name="Suite" finished-at="2022-11-14T23:23:16 GMT" duration-ms="81805">
+  <suite started-at="2022-11-15T00:19:43 GMT" name="Suite" finished-at="2022-11-15T00:20:21 GMT" duration-ms="38435">
     <groups>
       <group name="Sanity">
-        <method signature="CheckOutPageTest.addToCart()[pri:2, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" name="addToCart" class="com.magentotest.testcases.CheckOutPageTest"/>
-        <method signature="CheckOutPageTest.verifyCartTotal()[pri:0, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" name="verifyCartTotal" class="com.magentotest.testcases.CheckOutPageTest"/>
-        <method signature="CheckOutPageTest.verifyQuantityUpdate()[pri:1, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" name="verifyQuantityUpdate" class="com.magentotest.testcases.CheckOutPageTest"/>
-        <method signature="CheckOutPageTest.verifyUpdatedCartTotal()[pri:3, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" name="verifyUpdatedCartTotal" class="com.magentotest.testcases.CheckOutPageTest"/>
+        <method signature="OrderPageTest.verifyCountry()[pri:0, instance:com.magentotest.testcases.OrderPageTest@61386958]" name="verifyCountry" class="com.magentotest.testcases.OrderPageTest"/>
       </group> <!-- Sanity -->
     </groups>
-    <test started-at="2022-11-14T23:21:54 GMT" name="Test_All" finished-at="2022-11-14T23:23:16 GMT" duration-ms="81805">
-      <class name="com.magentotest.testcases.CheckOutPageTest">
-        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" started-at="2022-11-14T23:21:54 GMT" name="loadConfig" finished-at="2022-11-14T23:21:54 GMT" duration-ms="679" status="PASS">
+    <test started-at="2022-11-15T00:19:43 GMT" name="Test_All" finished-at="2022-11-15T00:20:21 GMT" duration-ms="38435">
+      <class name="com.magentotest.testcases.OrderPageTest">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.magentotest.testcases.OrderPageTest@61386958]" started-at="2022-11-15T00:19:42 GMT" name="loadConfig" finished-at="2022-11-15T00:19:43 GMT" duration-ms="608" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadConfig -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" started-at="2022-11-14T23:21:54 GMT" name="setup" finished-at="2022-11-14T23:22:00 GMT" duration-ms="5906" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.magentotest.testcases.OrderPageTest@61386958]" started-at="2022-11-15T00:19:43 GMT" name="setup" finished-at="2022-11-15T00:19:48 GMT" duration-ms="5430" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -28,115 +25,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyCartTotal()[pri:0, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" started-at="2022-11-14T23:22:00 GMT" name="verifyCartTotal" finished-at="2022-11-14T23:22:32 GMT" duration-ms="31627" status="FAIL">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [194.6] but found [79.6]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [194.6] but found [79.6]
-at org.testng.Assert.fail(Assert.java:97)
-at org.testng.Assert.assertEqualsImpl(Assert.java:136)
-at org.testng.Assert.assertEquals(Assert.java:118)
-at org.testng.Assert.assertEquals(Assert.java:563)
-at com.magentotest.testcases.CheckOutPageTest.verifyCartTotal(CheckOutPageTest.java:69)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:766)
-at org.testng.TestRunner.run(TestRunner.java:587)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
-at org.testng.SuiteRunner.run(SuiteRunner.java:286)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
-at org.testng.TestNG.runSuites(TestNG.java:1039)
-at org.testng.TestNG.run(TestNG.java:1007)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+        <test-method signature="verifyCountry()[pri:0, instance:com.magentotest.testcases.OrderPageTest@61386958]" started-at="2022-11-15T00:19:48 GMT" name="verifyCountry" finished-at="2022-11-15T00:20:21 GMT" duration-ms="32909" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyCartTotal -->
-        <test-method signature="verifyQuantityUpdate()[pri:1, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" started-at="2022-11-14T23:22:32 GMT" name="verifyQuantityUpdate" finished-at="2022-11-14T23:22:39 GMT" duration-ms="7023" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyQuantityUpdate -->
-        <test-method signature="addToCart()[pri:2, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" started-at="2022-11-14T23:22:39 GMT" name="addToCart" finished-at="2022-11-14T23:23:10 GMT" duration-ms="31008" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addToCart -->
-        <test-method signature="verifyUpdatedCartTotal()[pri:3, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" started-at="2022-11-14T23:23:10 GMT" name="verifyUpdatedCartTotal" finished-at="2022-11-14T23:23:15 GMT" duration-ms="5282" status="FAIL">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [158.0] but found [115.0]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [158.0] but found [115.0]
-at org.testng.Assert.fail(Assert.java:97)
-at org.testng.Assert.assertEqualsImpl(Assert.java:136)
-at org.testng.Assert.assertEquals(Assert.java:118)
-at org.testng.Assert.assertEquals(Assert.java:563)
-at com.magentotest.testcases.CheckOutPageTest.verifyUpdatedCartTotal(CheckOutPageTest.java:128)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:766)
-at org.testng.TestRunner.run(TestRunner.java:587)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
-at org.testng.SuiteRunner.run(SuiteRunner.java:286)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
-at org.testng.TestNG.runSuites(TestNG.java:1039)
-at org.testng.TestNG.run(TestNG.java:1007)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyUpdatedCartTotal -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" started-at="2022-11-14T23:23:16 GMT" name="tearDown" finished-at="2022-11-14T23:23:16 GMT" duration-ms="400" status="PASS">
+        </test-method> <!-- verifyCountry -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.magentotest.testcases.OrderPageTest@61386958]" started-at="2022-11-15T00:20:21 GMT" name="tearDown" finished-at="2022-11-15T00:20:21 GMT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.magentotest.testcases.CheckOutPageTest@61386958]" started-at="2022-11-14T23:23:16 GMT" name="afterSuite" finished-at="2022-11-14T23:23:17 GMT" duration-ms="829" status="PASS">
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.magentotest.testcases.OrderPageTest@61386958]" started-at="2022-11-15T00:20:21 GMT" name="afterSuite" finished-at="2022-11-15T00:20:22 GMT" duration-ms="674" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
-      </class> <!-- com.magentotest.testcases.CheckOutPageTest -->
+      </class> <!-- com.magentotest.testcases.OrderPageTest -->
     </test> <!-- Test_All -->
   </suite> <!-- Suite -->
 </testng-results>
